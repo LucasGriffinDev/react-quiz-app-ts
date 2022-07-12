@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-quiz-app-ts/static/js/main.afd85d57.js",
+    "static/media/mar28mar.jpg": "/react-quiz-app-ts/static/media/mar28mar.00db5d24261ab37d54b8.jpg",
+    "index.html": "/react-quiz-app-ts/index.html",
+    "main.afd85d57.js.map": "/react-quiz-app-ts/static/js/main.afd85d57.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.afd85d57.js"
+  ]
+}
