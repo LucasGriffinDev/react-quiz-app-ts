@@ -24,7 +24,6 @@ export const Wrapper = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  max-width: 400px;
   p {
     color: #fff;
     font-size: 1.5rem;
@@ -62,14 +61,5 @@ export const Wrapper = styled.div`
   }
   .start {
     max-width: 200px;
-  }
-  button {
-    cursor: pointer;
-    margin: 10px;
-    border: 6px solid #6f6f6f;
-    font-size: 2rem;
-    box-shadow: 5px 10px #888888;
-    border-radius: 10px;
-    padding: 10px 25px;
   }
 `;
