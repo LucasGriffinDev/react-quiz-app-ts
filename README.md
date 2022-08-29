@@ -5,5 +5,6 @@ react
 typescript
 styled components
 api requests
-[Link to project](https://lucasgriffindev.github.io/react-quiz-app-ts/)
+
+## [Link to project](https://lucasgriffindev.github.io/react-quiz-app-ts/)
 
